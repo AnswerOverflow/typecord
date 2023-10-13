@@ -1,0 +1,3 @@
+- [] Type safe API Calls
+- [] Type safe intents
+- [] Type safe partials
